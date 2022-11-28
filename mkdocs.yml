@@ -5,5 +5,15 @@ repo_url: https://github.com/thomaskokholm/guide/
 theme:
   name: material
 docs_dir: Guide
-extra_css:
-  - css/extra.css
+copyright: A Guide by Thomas Kokholm
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/invisilux
+    - icon: fontawesome/brands/github
+      link: https://github.com/thomaskokholm/
+extra:
+  generator: false
+markdown_extensions:
+  - toc:
+      permalink: true
