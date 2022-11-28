@@ -2,6 +2,7 @@ site_name: Hitchhiker's Guide
 locale: en
 site_url: https://thomaskokholm.github.io/guide
 repo_url: https://github.com/thomaskokholm/guide/
+edit_uri: blob/main/Guide/
 theme:
   name: material
 docs_dir: Guide
