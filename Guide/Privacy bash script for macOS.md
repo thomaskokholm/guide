@@ -174,4 +174,4 @@ echo 'Press any key to exit.'
 read -n 1 -s
 ```
 
-This script is based on the open source tool by UndergroundWires. Check out the [repository](https://github.com/undergroundwires/privacy.sexy) for details and even more privacy scripts.
+This script is based on the open source tool by [UndergroundWires](https://github.com/undergroundwires). Check out the [repository](https://github.com/undergroundwires/privacy.sexy) for details and even more privacy scripts.
